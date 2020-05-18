@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Created as part of a React course that I am taking on Udemy. It is being deployed on Netlify and can be found [here](https://inspiring-nobel-46ac17.netlify.app/).
 
 ## Available Scripts
 
